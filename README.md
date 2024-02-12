@@ -1,6 +1,6 @@
 # CODSOFT
 In this repository I uploaded multiple mini projects that I have done during my CodSoft Internship of Java Programming
-# GuessMyNumber (Task_11)
+# GuessMyNumber (Task_1)
 Key Features:
 
 1. Random Number Generation: The game generates a random number within a defined range, which the user needs to guess.
